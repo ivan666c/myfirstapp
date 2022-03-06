@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--this is a data about bank account -->
+<accountId="34789M123" bankName="Sberbank">
+<swiftNumber>453634889213</swiftNumber>
+</account>
+</bank>
